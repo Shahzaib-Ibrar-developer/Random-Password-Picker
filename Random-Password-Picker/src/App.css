@@ -1,0 +1,40 @@
+body{
+background-color: gray;
+}
+
+.mainDiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+flex-direction: row;
+margin-top: 20px;
+
+}
+.mainDiv input{
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 5px;
+  width: 400px;
+}
+.btn{
+  padding: 8px;
+  font-size: 15px;
+  background-color: aqua;
+  border: 2px solid black;
+  border-radius: 7px;
+}
+.first{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 30px;
+}
+
+.SecondDiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+flex-direction: row;
+margin-top: 10px;
+}
